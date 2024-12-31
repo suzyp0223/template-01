@@ -1,4 +1,3 @@
-// do something!
 const TOGGLE_KEY = 'my_toggle';
 const body = document.querySelector('body');
 
